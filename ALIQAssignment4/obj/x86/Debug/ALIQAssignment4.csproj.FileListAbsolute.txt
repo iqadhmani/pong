@@ -1,0 +1,256 @@
+C:\Users\alohani5162\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Fonts\SpriteFont1.xnb
+C:\Users\alohani5162\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Images\Ball.xnb
+C:\Users\alohani5162\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Images\BatLeft.xnb
+C:\Users\alohani5162\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Images\BatRight.xnb
+C:\Users\alohani5162\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Images\Scorebar.xnb
+C:\Users\alohani5162\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\ALIQAssignment4.exe
+C:\Users\alohani5162\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\ALIQAssignment4.pdb
+C:\Users\alohani5162\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\alohani5162\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\alohani5162\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\alohani5162\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\alohani5162\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\alohani5162\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\alohani5162\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\alohani5162\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\alohani5162\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\alohani5162\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\alohani5162\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\alohani5162\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\alohani5162\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\alohani5162\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\alohani5162\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\alohani5162\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\alohani5162\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\alohani5162\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\alohani5162\Desktop\ALIQAssignment4\ALIQAssignment4\obj\x86\Debug\ALIQAssignment4.csproj.CoreCompileInputs.cache
+C:\Users\alohani5162\Desktop\ALIQAssignment4\ALIQAssignment4\obj\x86\Debug\ALIQAssignment4.exe
+C:\Users\alohani5162\Desktop\ALIQAssignment4\ALIQAssignment4\obj\x86\Debug\ALIQAssignment4.pdb
+C:\Users\alohani5162\Desktop\ALIQAssignment4\ALIQAssignment4\obj\x86\Debug\ALIQAssignment4.csprojResolveAssemblyReference.cache
+C:\Users\alohani5162\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Music\applause1.xnb
+C:\Users\alohani5162\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Music\click.xnb
+C:\Users\alohani5162\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Music\ding.xnb
+C:\Users\alohani5162\Desktop\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Fonts\SpriteFont1.xnb
+C:\Users\alohani5162\Desktop\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Images\Ball.xnb
+C:\Users\alohani5162\Desktop\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Images\BatLeft.xnb
+C:\Users\alohani5162\Desktop\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Images\BatRight.xnb
+C:\Users\alohani5162\Desktop\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Images\Scorebar.xnb
+C:\Users\alohani5162\Desktop\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Music\applause1.xnb
+C:\Users\alohani5162\Desktop\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Music\click.xnb
+C:\Users\alohani5162\Desktop\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Music\ding.xnb
+C:\Users\alohani5162\Desktop\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\ALIQAssignment4.exe
+C:\Users\alohani5162\Desktop\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\ALIQAssignment4.pdb
+C:\Users\alohani5162\Desktop\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\alohani5162\Desktop\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\alohani5162\Desktop\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\alohani5162\Desktop\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\alohani5162\Desktop\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\alohani5162\Desktop\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\alohani5162\Desktop\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\alohani5162\Desktop\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\alohani5162\Desktop\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\alohani5162\Desktop\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\alohani5162\Desktop\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\alohani5162\Desktop\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\alohani5162\Desktop\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\alohani5162\Desktop\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\alohani5162\Desktop\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\alohani5162\Desktop\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\alohani5162\Desktop\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\alohani5162\Desktop\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\alohani5162\Desktop\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\obj\x86\Debug\ALIQAssignment4.csprojResolveAssemblyReference.cache
+C:\Users\alohani5162\Desktop\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\obj\x86\Debug\ALIQAssignment4.csproj.CoreCompileInputs.cache
+C:\Users\alohani5162\Desktop\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\obj\x86\Debug\ALIQAssignment4.exe
+C:\Users\alohani5162\Desktop\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\obj\x86\Debug\ALIQAssignment4.pdb
+C:\Users\alohani5162\Desktop\A4\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Fonts\SpriteFont1.xnb
+C:\Users\alohani5162\Desktop\A4\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Images\Ball.xnb
+C:\Users\alohani5162\Desktop\A4\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Images\BatLeft.xnb
+C:\Users\alohani5162\Desktop\A4\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Images\BatRight.xnb
+C:\Users\alohani5162\Desktop\A4\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Images\Scorebar.xnb
+C:\Users\alohani5162\Desktop\A4\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Music\applause1.xnb
+C:\Users\alohani5162\Desktop\A4\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Music\click.xnb
+C:\Users\alohani5162\Desktop\A4\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Music\ding.xnb
+C:\Users\alohani5162\Desktop\A4\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\ALIQAssignment4.exe
+C:\Users\alohani5162\Desktop\A4\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\ALIQAssignment4.pdb
+C:\Users\alohani5162\Desktop\A4\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\alohani5162\Desktop\A4\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\alohani5162\Desktop\A4\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\alohani5162\Desktop\A4\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\alohani5162\Desktop\A4\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\alohani5162\Desktop\A4\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\alohani5162\Desktop\A4\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\alohani5162\Desktop\A4\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\alohani5162\Desktop\A4\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\alohani5162\Desktop\A4\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\alohani5162\Desktop\A4\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\alohani5162\Desktop\A4\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\alohani5162\Desktop\A4\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\alohani5162\Desktop\A4\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\alohani5162\Desktop\A4\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\alohani5162\Desktop\A4\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\alohani5162\Desktop\A4\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\alohani5162\Desktop\A4\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\alohani5162\Desktop\A4\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\obj\x86\Debug\ALIQAssignment4.csprojResolveAssemblyReference.cache
+C:\Users\alohani5162\Desktop\A4\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\obj\x86\Debug\ALIQAssignment4.csproj.CoreCompileInputs.cache
+C:\Users\alohani5162\Desktop\A4\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\obj\x86\Debug\ALIQAssignment4.exe
+C:\Users\alohani5162\Desktop\A4\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\obj\x86\Debug\ALIQAssignment4.pdb
+C:\Users\Home1\Desktop\A4Try2\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\obj\x86\Debug\ALIQAssignment4.csprojResolveAssemblyReference.cache
+C:\Users\Home1\Desktop\A4Try2\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\obj\x86\Debug\ALIQAssignment4.csproj.CoreCompileInputs.cache
+C:\Users\Home1\Desktop\A4Try2\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\obj\x86\Debug\ALIQAssignment4.exe
+C:\Users\Home1\Desktop\A4Try2\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\obj\x86\Debug\ALIQAssignment4.pdb
+C:\Users\Home1\Desktop\A4Try2\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Images\Ball.xnb
+C:\Users\Home1\Desktop\A4Try2\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Images\BatLeft.xnb
+C:\Users\Home1\Desktop\A4Try2\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Images\BatRight.xnb
+C:\Users\Home1\Desktop\A4Try2\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Images\Scorebar.xnb
+C:\Users\Home1\Desktop\A4Try2\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Music\applause1.xnb
+C:\Users\Home1\Desktop\A4Try2\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Music\click.xnb
+C:\Users\Home1\Desktop\A4Try2\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Music\ding.xnb
+C:\Users\Home1\Desktop\A4Try2\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Fonts\SpriteFont1.xnb
+C:\Users\Home1\Desktop\A4Try2\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\ALIQAssignment4.exe
+C:\Users\Home1\Desktop\A4Try2\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\ALIQAssignment4.pdb
+C:\Users\Home1\Desktop\A4Try2\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Home1\Desktop\A4Try2\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Home1\Desktop\A4Try2\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Home1\Desktop\A4Try2\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Home1\Desktop\A4Try2\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Home1\Desktop\A4Try2\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Home1\Desktop\A4Try2\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Home1\Desktop\A4Try2\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Home1\Desktop\A4Try2\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Home1\Desktop\A4Try2\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Home1\Desktop\A4Try2\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Home1\Desktop\A4Try2\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Home1\Desktop\A4Try2\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Home1\Desktop\A4Try2\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Home1\Desktop\A4Try2\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Home1\Desktop\A4Try2\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Home1\Desktop\A4Try2\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Home1\Desktop\A4Try2\A4\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Mrsak\Downloads\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Images\Ball.xnb
+C:\Users\Mrsak\Downloads\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Images\BatLeft.xnb
+C:\Users\Mrsak\Downloads\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Images\BatRight.xnb
+C:\Users\Mrsak\Downloads\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Images\Scorebar.xnb
+C:\Users\Mrsak\Downloads\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Music\applause1.xnb
+C:\Users\Mrsak\Downloads\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Music\click.xnb
+C:\Users\Mrsak\Downloads\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Music\ding.xnb
+C:\Users\Mrsak\Downloads\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Fonts\SpriteFont1.xnb
+C:\Users\Mrsak\Downloads\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\ALIQAssignment4.exe
+C:\Users\Mrsak\Downloads\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\ALIQAssignment4.pdb
+C:\Users\Mrsak\Downloads\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Mrsak\Downloads\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Mrsak\Downloads\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Mrsak\Downloads\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Mrsak\Downloads\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Mrsak\Downloads\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Mrsak\Downloads\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Mrsak\Downloads\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Mrsak\Downloads\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Mrsak\Downloads\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Mrsak\Downloads\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Mrsak\Downloads\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Mrsak\Downloads\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Mrsak\Downloads\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Mrsak\Downloads\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Mrsak\Downloads\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Mrsak\Downloads\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Mrsak\Downloads\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Mrsak\Downloads\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\obj\x86\Debug\ALIQAssignment4.csprojResolveAssemblyReference.cache
+C:\Users\Mrsak\Downloads\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\obj\x86\Debug\ALIQAssignment4.csproj.CoreCompileInputs.cache
+C:\Users\Mrsak\Downloads\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\obj\x86\Debug\ALIQAssignment4.exe
+C:\Users\Mrsak\Downloads\A4\ALIQAssignment4\ALIQAssignment4\ALIQAssignment4\obj\x86\Debug\ALIQAssignment4.pdb
+D:\Conestoga College\Level3\PROG2370\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Music\applause1.xnb
+D:\Conestoga College\Level3\PROG2370\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Music\click.xnb
+D:\Conestoga College\Level3\PROG2370\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Music\ding.xnb
+D:\Conestoga College\Level3\PROG2370\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Images\Ball.xnb
+D:\Conestoga College\Level3\PROG2370\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Images\BatLeft.xnb
+D:\Conestoga College\Level3\PROG2370\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Images\BatRight.xnb
+D:\Conestoga College\Level3\PROG2370\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Images\Scorebar.xnb
+D:\Conestoga College\Level3\PROG2370\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Fonts\SpriteFont1.xnb
+D:\Conestoga College\Level3\PROG2370\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\ALIQAssignment4.exe
+D:\Conestoga College\Level3\PROG2370\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\ALIQAssignment4.pdb
+D:\Conestoga College\Level3\PROG2370\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Conestoga College\Level3\PROG2370\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Conestoga College\Level3\PROG2370\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.dll
+D:\Conestoga College\Level3\PROG2370\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Conestoga College\Level3\PROG2370\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Conestoga College\Level3\PROG2370\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Conestoga College\Level3\PROG2370\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Conestoga College\Level3\PROG2370\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Conestoga College\Level3\PROG2370\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Conestoga College\Level3\PROG2370\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Conestoga College\Level3\PROG2370\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Conestoga College\Level3\PROG2370\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.xml
+D:\Conestoga College\Level3\PROG2370\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Conestoga College\Level3\PROG2370\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Conestoga College\Level3\PROG2370\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Conestoga College\Level3\PROG2370\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Conestoga College\Level3\PROG2370\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Conestoga College\Level3\PROG2370\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Conestoga College\Level3\PROG2370\ALIQAssignment4\ALIQAssignment4\obj\x86\Debug\ALIQAssignment4.csprojResolveAssemblyReference.cache
+D:\Conestoga College\Level3\PROG2370\ALIQAssignment4\ALIQAssignment4\obj\x86\Debug\ALIQAssignment4.csproj.CoreCompileInputs.cache
+D:\Conestoga College\Level3\PROG2370\ALIQAssignment4\ALIQAssignment4\obj\x86\Debug\ALIQAssignment4.exe
+D:\Conestoga College\Level3\PROG2370\ALIQAssignment4\ALIQAssignment4\obj\x86\Debug\ALIQAssignment4.pdb
+C:\Users\Home1\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Images\Ball.xnb
+C:\Users\Home1\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Images\BatLeft.xnb
+C:\Users\Home1\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Images\BatRight.xnb
+C:\Users\Home1\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Images\Scorebar.xnb
+C:\Users\Home1\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Music\applause1.xnb
+C:\Users\Home1\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Music\click.xnb
+C:\Users\Home1\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Music\ding.xnb
+C:\Users\Home1\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Fonts\SpriteFont1.xnb
+C:\Users\Home1\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\ALIQAssignment4.exe
+C:\Users\Home1\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\ALIQAssignment4.pdb
+C:\Users\Home1\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Home1\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Home1\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Home1\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Home1\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Home1\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Home1\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Home1\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Home1\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Home1\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Home1\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Home1\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Home1\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Home1\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Home1\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Home1\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Home1\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Home1\Desktop\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Home1\Desktop\ALIQAssignment4\ALIQAssignment4\obj\x86\Debug\ALIQAssignment4.csprojResolveAssemblyReference.cache
+C:\Users\Home1\Desktop\ALIQAssignment4\ALIQAssignment4\obj\x86\Debug\ALIQAssignment4.csproj.CoreCompileInputs.cache
+C:\Users\Home1\Desktop\ALIQAssignment4\ALIQAssignment4\obj\x86\Debug\ALIQAssignment4.exe
+C:\Users\Home1\Desktop\ALIQAssignment4\ALIQAssignment4\obj\x86\Debug\ALIQAssignment4.pdb
+D:\Conestoga College\Level3\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Images\Ball.xnb
+D:\Conestoga College\Level3\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Images\BatLeft.xnb
+D:\Conestoga College\Level3\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Images\BatRight.xnb
+D:\Conestoga College\Level3\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Images\Scorebar.xnb
+D:\Conestoga College\Level3\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Fonts\SpriteFont1.xnb
+D:\Conestoga College\Level3\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Music\applause1.xnb
+D:\Conestoga College\Level3\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Music\click.xnb
+D:\Conestoga College\Level3\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\Content\Music\ding.xnb
+D:\Conestoga College\Level3\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\ALIQAssignment4.exe
+D:\Conestoga College\Level3\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\ALIQAssignment4.pdb
+D:\Conestoga College\Level3\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Conestoga College\Level3\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Conestoga College\Level3\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.dll
+D:\Conestoga College\Level3\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Conestoga College\Level3\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Conestoga College\Level3\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Conestoga College\Level3\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Conestoga College\Level3\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Conestoga College\Level3\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Conestoga College\Level3\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Conestoga College\Level3\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Conestoga College\Level3\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.xml
+D:\Conestoga College\Level3\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Conestoga College\Level3\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Conestoga College\Level3\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Conestoga College\Level3\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Conestoga College\Level3\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Conestoga College\Level3\ALIQAssignment4\ALIQAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Conestoga College\Level3\ALIQAssignment4\ALIQAssignment4\obj\x86\Debug\ALIQAssignment4.csprojResolveAssemblyReference.cache
+D:\Conestoga College\Level3\ALIQAssignment4\ALIQAssignment4\obj\x86\Debug\ALIQAssignment4.csproj.CoreCompileInputs.cache
+D:\Conestoga College\Level3\ALIQAssignment4\ALIQAssignment4\obj\x86\Debug\ALIQAssignment4.exe
+D:\Conestoga College\Level3\ALIQAssignment4\ALIQAssignment4\obj\x86\Debug\ALIQAssignment4.pdb

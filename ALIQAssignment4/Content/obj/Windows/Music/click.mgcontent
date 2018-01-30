@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Conestoga College/Level3/PROG2370/ALIQAssignment4/ALIQAssignment4/Content/Music/click.wav</SourceFile>
+  <SourceTime>2017-12-25T19:08:18.4792213-05:00</SourceTime>
+  <DestFile>D:/Conestoga College/Level3/PROG2370/ALIQAssignment4/ALIQAssignment4/Content/bin/Windows/Music/click.xnb</DestFile>
+  <DestTime>2017-12-25T19:28:54.709048-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
